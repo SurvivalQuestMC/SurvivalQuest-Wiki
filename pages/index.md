@@ -4,7 +4,7 @@ title: Docsy Jekyll Theme
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to Docsy Jekyll (Crumbs is great!)
 
 This is a starter template for a docsy jekyll theme.
 
